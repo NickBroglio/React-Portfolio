@@ -1,0 +1,20 @@
+.headerName{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 10px 10px 50px;
+}
+.navLinks{
+    display: flex;
+    list-style: none;
+}
+.navLinks li{
+    margin: 20px;
+    font-size: 25px;
+}
+.nav-link{
+    font-size: 45px;
+}
+
+.title{
+    margin: 30px;
+}

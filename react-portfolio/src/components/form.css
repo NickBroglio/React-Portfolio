@@ -1,0 +1,20 @@
+.entire-form{
+    margin: 10px auto;
+    text-align: center;
+}
+
+.input-title{
+    margin: 0px 10px 0px;
+    color: white;
+    font-size: 40px;
+}
+
+.form-group{
+    /* margin: 30px; */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 80%;
+}
+

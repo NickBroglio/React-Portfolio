@@ -1,0 +1,22 @@
+.project{
+    background-color: green;
+    width: 400px;
+    margin: 20px;
+    height: 450px;
+}
+
+.portfolio{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 40px;
+
+}
+
+.btn{
+    margin: 10px;
+    position: relative;
+}
+
+
+

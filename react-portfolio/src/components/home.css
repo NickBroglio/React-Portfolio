@@ -1,0 +1,19 @@
+.header{
+    text-align: center;
+    margin: 20px;
+    padding: 30px;
+    color: white;
+}
+
+.description{
+    border: 3px solid black;
+    font-size: 40px;
+    margin: 20px;
+    line-height: 90px;
+    padding: 5px;
+    color: white;
+    background-color: black;
+    padding: 20px;
+    border-radius: 30px;
+}
+

@@ -1,0 +1,6 @@
+body{
+    background-image: url('../../public/start.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+}
