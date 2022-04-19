@@ -82,7 +82,7 @@ function Form() {
                         rows="10"
                     />
                 </div>
-                <button type='button' onClick={handleFormSubmit}>Submit</button>
+                <button type="button" class="btn btn-primary m-5 fs-1" onClick={handleFormSubmit}>Submit</button>
             </form>
         </div>
     );

@@ -8,6 +8,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
 function Footer() {
     return (
+        <div>
         <footer className="footer">
             <ul className="footer-links">
                 <li>
@@ -18,6 +19,7 @@ function Footer() {
                 </li>
             </ul>
         </footer>
+        </div>
     );
 }
 

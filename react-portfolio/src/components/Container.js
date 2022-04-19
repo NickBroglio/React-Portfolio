@@ -4,6 +4,7 @@ import Home from "./pages/Home";
 import Form from "./pages/Form";
 import Portfolio from "./pages/Portfolio";
 import Resume from  "./pages/Resume";
+import Footer from "./Footer";
 
 export default function PageContainer() {
     const [currentPage, setCurrentPage] = useState('Home');
@@ -36,6 +37,7 @@ export default function PageContainer() {
         >
             {renderPage()}
             </div>
+<div><Footer /></div>
         </div>
     );
 }
