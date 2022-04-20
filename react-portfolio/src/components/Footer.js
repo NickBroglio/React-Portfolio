@@ -17,6 +17,9 @@ function Footer() {
                 <li>
                     <a className="logo" href='https://www.linkedin.com/in/nick-broglio-88695220a/'><i className="fab fa-linkedin"></i></a>
                 </li>
+                <li>
+                    <a className="logo" href="https://stackoverflow.com/users/18283842/nickbroglio"><i class="fa-brands fa-stack-overflow"></i></a>
+                </li>
             </ul>
         </footer>
         </div>
